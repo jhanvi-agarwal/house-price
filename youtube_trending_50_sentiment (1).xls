@@ -1,0 +1,51 @@
+video_id,title,channel_title,category,views,likes,dislikes,comment_count,tags,publish_time,trending_date,country,title_sentiment,tags_sentiment,title_sentiment_label,tags_sentiment_label
+vid1,Amazing Dance Performance,DanceWorld,Entertainment,1500000,25000,1000,1200,"dance, performance, show",10-01-2023,12-01-2023,US,0.6000000000000001,0.0,Positive,Neutral
+vid2,Breaking News: Big Event,NewsNow,News,2200000,15000,5000,3500,"news, breaking, event",11-01-2023,13-01-2023,US,0.0,0.0,Neutral,Neutral
+vid3,Funny Cat Compilation,CatLovers,Comedy,1200000,30000,800,2000,"funny, cat, compilation",12-01-2023,14-01-2023,UK,0.25,0.25,Positive,Positive
+vid4,New Movie Trailer Released,MovieHub,Film & Animation,3400000,40000,1200,4500,"movie, trailer, new",13-01-2023,15-01-2023,UK,0.13636363636363635,0.13636363636363635,Positive,Positive
+vid5,Tech Review: Latest iPhone,TechZone,Science & Technology,2000000,35000,1500,3000,"tech, iphone, review",14-01-2023,16-01-2023,IN,0.5,0.0,Positive,Neutral
+vid6,Top 10 Football Goals,FootballTV,Sports,1800000,28000,1100,2200,"football, goals, top10",15-01-2023,17-01-2023,IN,0.5,0.0,Positive,Neutral
+vid7,Cooking Recipe Easy Pasta,Foodies,Howto & Style,900000,10000,500,900,"cooking, pasta, recipe",16-01-2023,18-01-2023,CA,0.43333333333333335,0.0,Positive,Neutral
+vid8,Music Video Official,MusicStars,Music,5000000,60000,2000,8000,"music, official, video",17-01-2023,19-01-2023,CA,0.0,0.0,Neutral,Neutral
+vid9,Serious Talk on Climate Change,EarthTalks,Education,800000,12000,900,1500,"climate, change, talk",18-01-2023,20-01-2023,AU,-0.3333333333333333,0.0,Negative,Neutral
+vid10,Gaming Highlights Stream,GamerPro,Gaming,2500000,45000,1600,5000,"gaming, highlights, stream",19-01-2023,21-01-2023,AU,0.0,0.0,Neutral,Neutral
+vid11,Stand Up Comedy Night,ComedyClub,Comedy,1400000,32000,700,1700,"comedy, standup, jokes",20-01-2023,22-01-2023,US,0.0,0.0,Neutral,Neutral
+vid12,Daily News Roundup,News24,News,2700000,18000,4500,3900,"news, roundup, today",21-01-2023,23-01-2023,US,0.0,0.0,Neutral,Neutral
+vid13,Travel Vlog in Paris,GlobeTrotter,Travel,1600000,22000,800,2000,"travel, paris, vlog",22-01-2023,24-01-2023,UK,0.0,0.0,Neutral,Neutral
+vid14,Movie Behind the Scenes,CinemaBuzz,Film & Animation,2100000,36000,1300,3100,"movie, behind, scenes",23-01-2023,25-01-2023,UK,-0.4,-0.4,Negative,Negative
+vid15,New Gadget Unboxing,GizmoTech,Science & Technology,2300000,33000,1700,2900,"tech, unboxing, gadget",24-01-2023,26-01-2023,IN,0.13636363636363635,0.0,Positive,Neutral
+vid16,Cricket Highlights,CricketMania,Sports,2800000,40000,1200,4300,"cricket, match, highlights",25-01-2023,27-01-2023,IN,0.0,0.0,Neutral,Neutral
+vid17,Street Food Review,FoodieGuy,Howto & Style,950000,11000,600,1000,"food, street, review",26-01-2023,28-01-2023,CA,0.0,0.0,Neutral,Neutral
+vid18,Pop Music Concert,StarSinger,Music,4800000,70000,2500,9500,"music, concert, pop",27-01-2023,29-01-2023,CA,0.0,0.0,Neutral,Neutral
+vid19,Online Education Tips,LearnHub,Education,1200000,14000,700,1600,"education, online, tips",28-01-2023,30-01-2023,AU,0.0,0.0,Neutral,Neutral
+vid20,Top Esports Plays,GameArena,Gaming,3000000,52000,1900,5700,"gaming, esports, highlights",29-01-2023,31-01-2023,AU,0.5,0.0,Positive,Neutral
+vid21,Funny Dog Videos,DogWorld,Comedy,1300000,25000,600,1500,"dog, funny, compilation",30-01-2023,01-02-2023,US,0.25,0.25,Positive,Positive
+vid22,Political Debate Live,NewsTalk,News,2900000,12000,6000,4200,"news, politics, debate",31-01-2023,02-02-2023,US,0.06818181818181818,0.0,Neutral,Neutral
+vid23,London Travel Guide,TravelGuru,Travel,1750000,25000,1000,2200,"travel, london, guide",01-02-2023,03-02-2023,UK,0.0,0.0,Neutral,Neutral
+vid24,Action Movie Trailer,FilmWorld,Film & Animation,3600000,48000,1400,4900,"movie, action, trailer",02-02-2023,04-02-2023,UK,0.1,0.1,Neutral,Neutral
+vid25,AI Tech Explained,TechInsider,Science & Technology,1950000,31000,1600,2700,"tech, ai, explained",03-02-2023,05-02-2023,IN,0.0,0.0,Neutral,Neutral
+vid26,Football World Cup Highlights,SportsHub,Sports,4000000,60000,2000,6500,"football, worldcup, highlights",04-02-2023,06-02-2023,IN,0.0,0.0,Neutral,Neutral
+vid27,Baking Cake at Home,ChefLife,Howto & Style,1000000,15000,700,1100,"baking, cake, recipe",05-02-2023,07-02-2023,CA,0.0,0.0,Neutral,Neutral
+vid28,Rap Song Official,BeatMaker,Music,5200000,85000,3000,12000,"music, rap, official",06-02-2023,08-02-2023,CA,0.0,0.0,Neutral,Neutral
+vid29,History Explained,KnowledgeBase,Education,1350000,18000,800,1700,"history, explained, facts",07-02-2023,09-02-2023,AU,0.0,0.0,Neutral,Neutral
+vid30,Gaming Funny Moments,GameZone,Gaming,2750000,48000,2000,5500,"gaming, funny, moments",08-02-2023,10-02-2023,AU,0.25,0.25,Positive,Positive
+vid31,Dance Challenge Viral,DanceStars,Entertainment,2100000,42000,1500,3700,"dance, challenge, viral",09-02-2023,11-02-2023,US,0.0,0.0,Neutral,Neutral
+vid32,World News Update,GlobalNews,News,3100000,20000,5000,4600,"news, update, world",10-02-2023,12-02-2023,US,0.0,0.0,Neutral,Neutral
+vid33,Exploring Italy,TravelVibes,Travel,1900000,24000,900,2100,"travel, italy, vlog",11-02-2023,13-02-2023,UK,0.0,0.0,Neutral,Neutral
+vid34,Romantic Movie Scenes,MovieLovers,Film & Animation,2500000,37000,1600,3400,"movie, romantic, scenes",12-02-2023,14-02-2023,UK,0.0,0.0,Neutral,Neutral
+vid35,Latest Smartphone Review,TechTalks,Science & Technology,2250000,34000,1800,3000,"tech, smartphone, review",13-02-2023,15-02-2023,IN,0.5,0.0,Positive,Neutral
+vid36,Kabaddi Highlights,KabaddiWorld,Sports,2600000,39000,1400,4100,"kabaddi, highlights, match",14-02-2023,16-02-2023,IN,0.0,0.0,Neutral,Neutral
+vid37,Street Food in Japan,FoodLover,Howto & Style,1100000,16000,800,1200,"food, japan, street",15-02-2023,17-02-2023,CA,0.0,0.0,Neutral,Neutral
+vid38,Rock Music Festival,RockStars,Music,4700000,68000,2700,9300,"music, rock, festival",16-02-2023,18-02-2023,CA,0.0,0.0,Neutral,Neutral
+vid39,Science Experiment,ScienceLab,Education,1450000,19000,900,1800,"science, experiment, school",17-02-2023,19-02-2023,AU,0.0,0.0,Neutral,Neutral
+vid40,Pro Gamer Montage,GameMaster,Gaming,2950000,51000,2200,6000,"gaming, montage, pro",18-02-2023,20-02-2023,AU,0.0,0.0,Neutral,Neutral
+vid41,Viral Dance Compilation,DanceTube,Entertainment,2200000,43000,1400,3600,"dance, viral, compilation",19-02-2023,21-02-2023,US,0.0,0.0,Neutral,Neutral
+vid42,News Headlines Today,DailyNews,News,3300000,21000,4800,4700,"news, headlines, today",20-02-2023,22-02-2023,US,0.0,0.0,Neutral,Neutral
+vid43,Travel Thailand,TravelAsia,Travel,2000000,26000,1100,2300,"travel, thailand, vlog",21-02-2023,23-02-2023,UK,0.0,0.0,Neutral,Neutral
+vid44,Horror Movie Teaser,ScaryWorld,Film & Animation,2800000,40000,1700,3700,"movie, horror, teaser",22-02-2023,24-02-2023,UK,0.0,0.0,Neutral,Neutral
+vid45,Robotics Future,TechFuture,Science & Technology,2100000,35000,1900,3200,"tech, robotics, future",23-02-2023,25-02-2023,IN,0.0,0.0,Neutral,Neutral
+vid46,Hockey Match Highlights,HockeyNation,Sports,2700000,42000,1500,4400,"hockey, match, highlights",24-02-2023,26-02-2023,IN,0.0,0.0,Neutral,Neutral
+vid47,Home Decoration Ideas,DecorGuru,Howto & Style,1150000,17000,900,1300,"home, decoration, ideas",25-02-2023,27-02-2023,CA,0.0,0.0,Neutral,Neutral
+vid48,Pop Song Release,PopStar,Music,4900000,72000,2800,9900,"music, pop, release",26-02-2023,28-02-2023,CA,0.0,0.0,Neutral,Neutral
+vid49,Math Tricks,SmartStudy,Education,1550000,20000,1000,1900,"math, tricks, easy",27-02-2023,01-03-2023,AU,0.0,0.43333333333333335,Neutral,Positive
+vid50,Best Gaming Fails,GamingHub,Gaming,3100000,53000,2100,6200,"gaming, fails, funny",28-02-2023,02-03-2023,AU,0.25,-0.125,Positive,Negative
